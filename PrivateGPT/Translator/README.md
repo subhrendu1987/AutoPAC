@@ -1,3 +1,6 @@
+# For Fine tuning
+1. Use google cloud for fine tuning. The Objective is to fine tune `codeT5 base` model  with the obtained `Policy Dataset` (https://github.com/subhrendu1987/AutoPAC/tree/main/DatasetOpaRules)
+
 # Setup PrivateGPT server
 
 1. Concatenate the split_model files into one file -
