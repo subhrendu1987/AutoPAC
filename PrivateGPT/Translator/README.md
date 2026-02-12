@@ -1,5 +1,6 @@
 # For Fine tuning
 1. Use `google colab` for fine tuning. The Objective is to fine tune `codeT5 base` model  with the obtained `Policy Dataset` (https://github.com/subhrendu1987/AutoPAC/tree/main/DatasetOpaRules)
+2. Code for fine tuning (https://github.com/subhrendu1987/AutoPAC/blob/main/PrivateGPT/Translator/Code_t5_training.ipynb)
 
 # Setup PrivateGPT server
 
